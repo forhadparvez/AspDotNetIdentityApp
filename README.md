@@ -20,3 +20,4 @@ Step 4: Add 11 nuget package in AdminLTE project
         
 Step 5: Create FilterConfig.cs in AdminLTE app start folder
 Step 6: Add IdentityConfig and Startup.Auth in App_Start
+Step 7: Add Startup,cs in base  AdminLte Project
