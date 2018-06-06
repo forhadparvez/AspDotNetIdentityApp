@@ -201,6 +201,23 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Startup.cs" />
+    <Compile Include="ViewModels\AccountViewModels\ExternalLoginConfirmationViewModel.cs" />
+    <Compile Include="ViewModels\AccountViewModels\ExternalLoginListViewModel.cs" />
+    <Compile Include="ViewModels\AccountViewModels\ForgotPasswordViewModel.cs" />
+    <Compile Include="ViewModels\AccountViewModels\ForgotViewModel.cs" />
+    <Compile Include="ViewModels\AccountViewModels\LoginViewModel.cs" />
+    <Compile Include="ViewModels\AccountViewModels\RegisterViewModel.cs" />
+    <Compile Include="ViewModels\AccountViewModels\ResetPasswordViewModel.cs" />
+    <Compile Include="ViewModels\AccountViewModels\SendCodeViewModel.cs" />
+    <Compile Include="ViewModels\AccountViewModels\VerifyCodeViewModel.cs" />
+    <Compile Include="ViewModels\ManageViewModels\AddPhoneNumberViewModel.cs" />
+    <Compile Include="ViewModels\ManageViewModels\ChangePasswordViewModel.cs" />
+    <Compile Include="ViewModels\ManageViewModels\ConfigureTwoFactorViewModel.cs" />
+    <Compile Include="ViewModels\ManageViewModels\FactorViewModel.cs" />
+    <Compile Include="ViewModels\ManageViewModels\IndexViewModel.cs" />
+    <Compile Include="ViewModels\ManageViewModels\ManageLoginsViewModel.cs" />
+    <Compile Include="ViewModels\ManageViewModels\SetPasswordViewModel.cs" />
+    <Compile Include="ViewModels\ManageViewModels\VerifyPhoneNumberViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
