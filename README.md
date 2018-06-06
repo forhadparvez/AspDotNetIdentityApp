@@ -19,3 +19,4 @@ Step 4: Add 11 nuget package in AdminLTE project
         11) Install-Package Microsoft.Owin.Host.SystemWeb (Owin.Host.SystemWeb)
         
 Step 5: Create FilterConfig.cs in AdminLTE app start folder
+Step 6: Add IdentityConfig and Startup.Auth in App_Start
