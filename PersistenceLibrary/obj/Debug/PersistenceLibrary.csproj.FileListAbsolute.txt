@@ -7,3 +7,15 @@ C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\obj\Debu
 C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\obj\Debug\PersistenceLibrary.csproj.CopyComplete
 C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\obj\Debug\PersistenceLibrary.dll
 C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\obj\Debug\PersistenceLibrary.pdb
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\bin\Debug\PersistenceLibrary.dll.config
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\bin\Debug\EntityFramework.dll
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\bin\Debug\CoreLibrary.dll.config
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\bin\Debug\EntityFramework.xml
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\obj\Debug\PersistenceLibrary.Migrations.CreateIdentityTables.resources
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\obj\Debug\PersistenceLibrary.csproj.GenerateResource.cache

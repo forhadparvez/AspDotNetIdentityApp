@@ -9,3 +9,11 @@ C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\ServiceLibrary\obj\Debug\Se
 C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\ServiceLibrary\obj\Debug\ServiceLibrary.csproj.CopyComplete
 C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\ServiceLibrary\obj\Debug\ServiceLibrary.dll
 C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\ServiceLibrary\obj\Debug\ServiceLibrary.pdb
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\ServiceLibrary\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\ServiceLibrary\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\ServiceLibrary\bin\Debug\EntityFramework.dll
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\ServiceLibrary\bin\Debug\CoreLibrary.dll.config
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\ServiceLibrary\bin\Debug\PersistenceLibrary.dll.config
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\ServiceLibrary\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\ServiceLibrary\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\ServiceLibrary\bin\Debug\EntityFramework.xml

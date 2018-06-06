@@ -170,3 +170,10 @@ C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\AdminLteUi\obj\Debug\AdminL
 C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\AdminLteUi\obj\Debug\AdminLteUi.csproj.CopyComplete
 C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\AdminLteUi\obj\Debug\AdminLteUi.dll
 C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\AdminLteUi\obj\Debug\AdminLteUi.pdb
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\AdminLteUi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\AdminLteUi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\AdminLteUi\bin\EntityFramework.dll
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\AdminLteUi\bin\CoreLibrary.dll.config
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\AdminLteUi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\AdminLteUi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\AdminLteUi\bin\EntityFramework.xml
