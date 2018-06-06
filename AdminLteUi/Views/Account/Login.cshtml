@@ -1,6 +1,6 @@
 ﻿@using System.Web.Optimization
-@using AdminLTE1.Models
-@model AdminLTE1.Models.LoginViewModel
+@using AdminLteUi.ViewModels.AccountViewModels
+@model AdminLteUi.ViewModels.AccountViewModels.LoginViewModel
 @{
     ViewBag.Title = "Log in";
 }
@@ -59,6 +59,6 @@
     </div>
 </div>
 
-@section Scripts {
+@section ViewSpecificJavascript {
     @Scripts.Render("~/bundles/jqueryval")
 }

@@ -1,11 +1,13 @@
-﻿@model AdminLTE1.Models.SendCodeViewModel
+﻿@using System.Web.Optimization
+@model AdminLteUi.ViewModels.AccountViewModels.SendCodeViewModel
 @{
     ViewBag.Title = "Send";
 }
 
 <h2>@ViewBag.Title.</h2>
 
-@using (Html.BeginForm("SendCode", "Account", new { ReturnUrl = Model.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" })) {
+@using (Html.BeginForm("SendCode", "Account", new { ReturnUrl = Model.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
     @Html.AntiForgeryToken()
     @Html.Hidden("rememberMe", @Model.RememberMe)
     <h4>Send verification code</h4>
@@ -19,6 +21,6 @@
     </div>
 }
 
-@section Scripts {
+@section ViewSpecificJavascript {
     @Scripts.Render("~/bundles/jqueryval")
 }

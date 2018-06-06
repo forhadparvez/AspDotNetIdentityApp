@@ -1,4 +1,5 @@
-﻿@model AdminLTE1.Models.AddPhoneNumberViewModel
+﻿@using System.Web.Optimization
+@model AdminLteUi.ViewModels.ManageViewModels.AddPhoneNumberViewModel
 @{
     ViewBag.Title = "Phone Number";
 }
@@ -24,6 +25,6 @@
     </div>
 }
 
-@section Scripts {
+@section ViewSpecificJavascript {
     @Scripts.Render("~/bundles/jqueryval")
 }
