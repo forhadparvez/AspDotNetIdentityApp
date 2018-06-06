@@ -1,0 +1,6 @@
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\CoreLibrary\bin\Debug\CoreLibrary.dll
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\CoreLibrary\bin\Debug\CoreLibrary.pdb
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\CoreLibrary\obj\Debug\CoreLibrary.csprojAssemblyReference.cache
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\CoreLibrary\obj\Debug\CoreLibrary.csproj.CoreCompileInputs.cache
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\CoreLibrary\obj\Debug\CoreLibrary.dll
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\CoreLibrary\obj\Debug\CoreLibrary.pdb

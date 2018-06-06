@@ -1,0 +1,11 @@
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\ServiceLibrary\bin\Debug\ServiceLibrary.dll
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\ServiceLibrary\bin\Debug\ServiceLibrary.pdb
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\ServiceLibrary\bin\Debug\CoreLibrary.dll
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\ServiceLibrary\bin\Debug\PersistenceLibrary.dll
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\ServiceLibrary\bin\Debug\CoreLibrary.pdb
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\ServiceLibrary\bin\Debug\PersistenceLibrary.pdb
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\ServiceLibrary\obj\Debug\ServiceLibrary.csprojAssemblyReference.cache
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\ServiceLibrary\obj\Debug\ServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\ServiceLibrary\obj\Debug\ServiceLibrary.csproj.CopyComplete
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\ServiceLibrary\obj\Debug\ServiceLibrary.dll
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\ServiceLibrary\obj\Debug\ServiceLibrary.pdb

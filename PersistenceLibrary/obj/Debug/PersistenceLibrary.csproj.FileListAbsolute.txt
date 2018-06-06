@@ -1,0 +1,9 @@
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\bin\Debug\PersistenceLibrary.dll
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\bin\Debug\PersistenceLibrary.pdb
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\bin\Debug\CoreLibrary.dll
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\bin\Debug\CoreLibrary.pdb
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\obj\Debug\PersistenceLibrary.csprojAssemblyReference.cache
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\obj\Debug\PersistenceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\obj\Debug\PersistenceLibrary.csproj.CopyComplete
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\obj\Debug\PersistenceLibrary.dll
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\obj\Debug\PersistenceLibrary.pdb
