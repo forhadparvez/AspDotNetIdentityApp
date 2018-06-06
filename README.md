@@ -3,9 +3,13 @@ This project show how to add ASP.NET Identity In a Empty project and Use Identit
 
 
 Step 1: Add Microsoft.AspNet.Identity.EntityFramework in Core Library
+
 Step 2: Add Identity Core in Core Library
+
 Step 3: Create DbContext in Data Access Layer and Create Identity Tables
+
 Step 4: Add 11 nuget package in AdminLTE project
+
         01) Install-Package EntityFramework (Entity Framework)
         02) Install-Package EntityFramework.SqlServerCompact (Entity Framework SQL Server Compact)
         03) Install-Package Microsoft.AspNet.Identity.Core (ASP.NET Identity Core)
@@ -19,6 +23,9 @@ Step 4: Add 11 nuget package in AdminLTE project
         11) Install-Package Microsoft.Owin.Host.SystemWeb (Owin.Host.SystemWeb)
         
 Step 5: Create FilterConfig.cs in AdminLTE app start folder
+
 Step 6: Add IdentityConfig and Startup.Auth in App_Start
+
 Step 7: Add Startup,cs in base  AdminLte Project
+
 Step 8: Create Identity ViewModel
