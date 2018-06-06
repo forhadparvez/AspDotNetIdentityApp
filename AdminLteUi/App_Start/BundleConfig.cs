@@ -30,6 +30,11 @@ namespace AdminLteUi.App_Start
                 .Include("~/Content/js/adminlte.js")
                 .Include("~/Content/js/init.js"));
 
+
+            bundles.Add(new ScriptBundle("~/bundles/jqueryval").Include(
+                        "~/Scripts/jquery.validate*"));
+
+
 #if DEBUG
             BundleTable.EnableOptimizations = false;
 #else
