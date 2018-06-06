@@ -29,3 +29,5 @@ Step 6: Add IdentityConfig and Startup.Auth in App_Start
 Step 7: Add Startup,cs in base  AdminLte Project
 
 Step 8: Create Identity ViewModel
+
+Step 9: Create AccountController and ManageController and Their View and Shere View
