@@ -1,10 +1,12 @@
-﻿using System.Linq;
+﻿using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
 using AdminLteUi.ViewModels.AccountViewModels;
 using CoreLibrary.IdentityCore;
 using Microsoft.AspNet.Identity;
+using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 
@@ -15,6 +17,8 @@ namespace AdminLteUi.Controllers
     {
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
+        readonly RoleManager<ApplicationRole> _roleManager = new RoleManager<ApplicationRole>(
+            new RoleStore<ApplicationRole>(new ApplicationDbContext()));
 
         public AccountController()
         {
@@ -137,6 +141,9 @@ namespace AdminLteUi.Controllers
         [AllowAnonymous]
         public ActionResult Register()
         {
+            var roles = new SelectList(_roleManager.Roles.ToList(), "Name", "Name");
+            ViewData["ApplicationRoleId"] = roles;
+
             return View();
         }
 
@@ -147,22 +154,32 @@ namespace AdminLteUi.Controllers
         [ValidateAntiForgeryToken]
         public async Task<ActionResult> Register(RegisterViewModel model)
         {
+            
             if (ModelState.IsValid)
             {
                 var user = new ApplicationUser { UserName = model.UserName, Email = model.Email, PhoneNumber = model.PhoneNumber};
                 var result = await UserManager.CreateAsync(user, model.Password);
                 if (result.Succeeded)
                 {
-                    await SignInManager.SignInAsync(user, isPersistent:false, rememberBrowser:false);
-                    
+
+                    var result2=await UserManager.AddToRoleAsync(user.Id, model.ApplicationRoleId);
+                    if (result2.Succeeded)
+                    {
+                        await SignInManager.SignInAsync(user, isPersistent:false, rememberBrowser:false);
+                        return RedirectToAction("Index", "Home");
+
+                    }
+
                     // For more information on how to enable account confirmation and password reset please visit https://go.microsoft.com/fwlink/?LinkID=320771
                     // Send an email with this link
                     // string code = await UserManager.GenerateEmailConfirmationTokenAsync(user.Id);
                     // var callbackUrl = Url.Action("ConfirmEmail", "Account", new { userId = user.Id, code = code }, protocol: Request.Url.Scheme);
                     // await UserManager.SendEmailAsync(user.Id, "Confirm your account", "Please confirm your account by clicking <a href=\"" + callbackUrl + "\">here</a>");
 
-                    return RedirectToAction("Index", "Home");
                 }
+                var roles = new SelectList(_roleManager.Roles.ToList(), "Name", "Name");
+                ViewData["ApplicationRoleId"] = roles;
+
                 AddErrors(result);
             }
 

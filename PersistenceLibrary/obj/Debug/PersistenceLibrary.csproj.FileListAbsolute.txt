@@ -19,3 +19,7 @@ C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\bin\Debu
 C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\obj\Debug\PersistenceLibrary.Migrations.CreateIdentityTables.resources
 C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\obj\Debug\PersistenceLibrary.csproj.GenerateResource.cache
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\My PC\Documents\GitHub\AspDotNetIdentityApp\PersistenceLibrary\obj\Debug\PersistenceLibrary.Migrations.AddDescriptionInRole.resources

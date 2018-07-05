@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IdentityCore\ApplicationDbContext.cs" />
+    <Compile Include="IdentityCore\ApplicationRole.cs" />
     <Compile Include="IdentityCore\ApplicationUser.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

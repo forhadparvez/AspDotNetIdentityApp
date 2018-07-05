@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using CoreLibrary.IdentityCore;
 
 namespace AdminLteUi.ViewModels.AccountViewModels
 {
@@ -28,5 +29,8 @@ namespace AdminLteUi.ViewModels.AccountViewModels
 
         [Display(Name = "Phone Number")]
         public string PhoneNumber { get; set; }
+
+        public string ApplicationRoleId { get; set; }
+        public ApplicationRole ApplicationRole { get; set; }
     }
 }
