@@ -22,12 +22,15 @@ Step 4: Add 11 nuget package in AdminLTE project
         10) Install-Package Microsoft.AspNet.WebApi.Client (ASP.NET Web API 2 Client)
         11) Install-Package Microsoft.Owin.Host.SystemWeb (Owin.Host.SystemWeb)
         
+        
+        Add EntityFramework.SqlServerCompact in Data Access Layer
+        
 Step 5: Create FilterConfig.cs in AdminLTE app start folder
 
 Step 6: Add IdentityConfig and Startup.Auth in App_Start
 
-Step 7: Add Startup,cs in base  AdminLte Project
+Step 7: Add Startup.cs in base  AdminLte Project
 
-Step 8: Create Identity ViewModel
+Step 8: Create Identity ViewModels in AdminLTE project
 
 Step 9: Create AccountController and ManageController and Their View and Shere View
